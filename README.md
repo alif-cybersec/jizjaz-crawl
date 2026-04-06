@@ -13,5 +13,5 @@ JIZJAZ-CRAWL adalah tool untuk melakukan scraping data sensitif (seperti passwor
 ```bash
 chmod +x jizjaz-crawl.sh
 ./jizjaz-crawl.sh "keyword" list_url.txt
-
+```
 Developed by alif-cybersec
